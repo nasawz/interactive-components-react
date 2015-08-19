@@ -1,0 +1,11 @@
+{
+  "name": "interactive-components-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/ICReact.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nasa.wang",
+  "license": "ISC"
+}
