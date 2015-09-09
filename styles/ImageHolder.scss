@@ -2,8 +2,8 @@
    position: absolute;
    width: 100%;
    height: 100%;
-   top: 0;
-   left: 0;
+   top: 20;
+   left: 20;
    //z-index: 1;
    //background: #292929;
    background-size: cover !important;
@@ -15,13 +15,21 @@
    opacity: 1;
    z-index: -1;
  }
+ .background-image-holder img {
+   width: 600px;
+   height: 851px;
+ }
+ .cover-image-holder img {
+   width: 600px;
+   height: 851px;
+ }
 
 .cover-image-holder {
   position: absolute;
   width: 100%;
   height: 100%;
-  top: 0;
-  left: 0;
+  top: 20;
+  left: 20;
   z-index: 99;
   //background: #292929;
   background-size: cover !important;
